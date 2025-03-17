@@ -4,3 +4,7 @@ You will be given a random snetence in either Toki Pona or English, and will att
 
 # Notes - Please read
 - "index.html" is the new name for "Practise Toki Pona.html" this is the file you are looking for for the offline copy of the web app 
+
+
+## Github Pages site
+[https://vmhl87.github.io/practice-tp/](https://vmhl87.github.io/practice-tp/)
