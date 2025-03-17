@@ -7,4 +7,5 @@ You will be given a random snetence in either Toki Pona or English, and will att
 
 
 ## Github Pages site
-[https://vmhl87.github.io/practice-tp/](https://vmhl87.github.io/practice-tp/)
+
+I didn't add anything to this repo besides fixing github pages deployment. Link [here.](https://vmhl87.github.io/practice-tp/)
